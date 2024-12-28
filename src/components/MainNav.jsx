@@ -21,7 +21,7 @@ function MainNav() {
           {/* Group of navigation links */}
           <div className="flex items-center gap-6">
             <Link to={"/"} className="text-2xl font-bold">
-              CAI I.T. SHOP
+              MOODENG SHOP!
             </Link>
 
             <NavLink
