@@ -7,35 +7,35 @@ const AboutMe = () => {
       studentId: "6652300842",
       github: "https://github.com/Rinnosuka",
       resume: "https://rinnosuka.github.io/resume1.2/",
-      image: "/images/mos.jpg"
+      image: "/images/picPond.jpg"
     },
     {
       name: "วิศณุ พิมานรัมย์",
       studentId: "6652300796",
       github: "https://github.com/vit-phi",
       resume: "https://vit-phi.github.io/Resume.V1/",
-      image: "/images/mos1.jpg"
+      image: "/images/picmos.jpg"
     },
     {
       name: "กนกพล ศรีโสพล",
       studentId: "6652300699",
       github: "https://github.com/Bomzap220548",
       resume: "https://bomzap220548.github.io/My--Resume/",
-      image: "/images/mos2.jpg"
+      image: "/images/picbomb.jpg"
     },
     {
-      name: "ภาณุเดช สุทธิวงศ์",
-      studentId: "6652300524",
+      name: "ภานุเดช สุทธิวงศ์",
+      studentId: "6652300443",
       github: "https://github.com/9Panudet",
       resume: "https://9panudet.github.io/resume/",
-      image: "/images/mos3.jpg"
+      image: "/images/picboom.jpg"
     },
     {
       name: "ศุภสัณห์ มาพันธ์",
       studentId: "6652300524",
       github: "https://github.com/Supphasan-Pond/Resume",
       resume: "https://supphasan-pond.github.io/Resume/",
-      image: "/images/mos4.jpg"
+      image: "/images/picpond.jpg"
     }
   ];
 
