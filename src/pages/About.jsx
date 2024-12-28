@@ -7,7 +7,7 @@ const AboutMe = () => {
       studentId: "6652300842",
       github: "https://github.com/Rinnosuka",
       resume: "https://rinnosuka.github.io/resume1.2/",
-      image: "/images/picPond.jpg"
+      image: "/images/picpond.jpg"
     },
     {
       name: "วิศณุ พิมานรัมย์",
@@ -35,7 +35,7 @@ const AboutMe = () => {
       studentId: "6652300524",
       github: "https://github.com/Supphasan-Pond/Resume",
       resume: "https://supphasan-pond.github.io/Resume/",
-      image: "/images/picpond.jpg"
+      image: "/images/picppond.jpg"
     }
   ];
 
