@@ -53,26 +53,6 @@ const ContentCarousel = () => {
           </SwiperSlide>
         ))}
       </Swiper>
-
-      {/* สไลด์ที่ 2 */}
-      <Swiper
-        slidesPerView={6} 
-        spaceBetween={10}  
-        pagination={true}
-        navigation={true}
-        modules={[Pagination, Autoplay, Navigation]}
-        autoplay={{
-          delay: 2500,
-          disableOnInteraction: false,
-        }}
-        className="mySwiper object-cover rounded-md"
-      >
-        {imageUrls.map((url, i) => (
-          <SwiperSlide key={i}>
-            <img className="rounded-md" src={url} alt={`Image ${i + 1}`} />
-          </SwiperSlide>
-        ))}
-      </Swiper>
     </div>
   );
 };
